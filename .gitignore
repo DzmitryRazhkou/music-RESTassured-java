@@ -1,0 +1,6 @@
+/target/
+/.allure/
+/.classpath
+/*.log
+/*.project
+/.settings
